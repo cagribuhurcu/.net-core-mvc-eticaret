@@ -20,3 +20,4 @@
     "Connection": "Server=DESKTOP-OEIFO1O\\CAGRISERVER;Database=StarBrothers2DB;Trusted_Connection=True;"
   }
   ```
+  Sonrasında Package Manager Console açılarak update-database komutu yazılmalırıdr.
