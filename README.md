@@ -15,6 +15,8 @@
 
 ## Kurulum
 Öncelikle proje clone edildikten sonra appsettings.json içerisinde bulunan connectionStrings değiştirilmelidir.
+```
 "ConnectionStrings": {
     "Connection": "Server=DESKTOP-OEIFO1O\\CAGRISERVER;Database=StarBrothers2DB;Trusted_Connection=True;"
   }
+  ```
